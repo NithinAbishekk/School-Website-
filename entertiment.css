@@ -1,0 +1,82 @@
+.pink {
+    background-color: #00aeff;
+    margin-right: 10px;
+}
+
+.hover5:hover {
+    background-color: #8000ff;
+
+
+}
+
+.Entertiment {
+
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+}
+
+.Entertiment:hover {
+    background: linear-gradient(-45deg, #7400b8, #6930c3, #5e60ce, #5390d9, #4ea8de, #56cfe1, #72efdd, #80ffdb);
+}
+
+.hover6 {
+    margin-left: 1px;
+}
+
+.image3 img {
+    text-align: center;
+    font-size: 30px;
+}
+
+.image10 {
+    height: 400px;
+    width: 1200px;
+    text-align: center;
+    margin-left: 130px;
+}
+
+.image10 button {
+    font-size: 40px;
+}
+
+.width {
+    width: 100px;
+}
+
+.style {
+    text-shadow: 2px 2px 8px blue;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.info {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.not {
+    margin-left: 20px;
+}
+
+body {
+    background: linear-gradient(-100deg, #f42e78, #c17afc, #fec180, #ff8993);
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.size2 {
+    font-size: 50px;
+}
+
+body {
+    background: linear-gradient(-45deg, #00bf8f, #fc00ff);
+    background-attachment: fixed;
+}
+
+.center {
+    color: black;
+    border: 2px solid black;
+}

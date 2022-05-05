@@ -1,0 +1,50 @@
+.hover2 :hover {
+    background-color: #8000ff;
+    font-size: 15px;
+}
+
+.content {
+    text-align: center;
+
+}
+
+p {
+    font-size: 40px;
+}
+
+.not {
+    margin-right: 30px;
+}
+
+.height3 {
+    height: 200px;
+}
+
+body {
+    background-attachment: fixed;
+}
+
+.content2 {
+    text-align: center;
+}
+
+.carousel-inner {
+    width: 1280px;
+    height: 650px;
+    text-align: center;
+    margin-left: 8%;
+    padding-top: 30px;
+}
+
+.heading h1 {
+    padding-left: 50px;
+}
+
+.heading h3 {
+    padding-left: 50px;
+}
+
+.heading p {
+    padding-left: 50px;
+    font-size: 30px;
+}

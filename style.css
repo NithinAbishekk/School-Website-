@@ -1,0 +1,139 @@
+.hover {
+    font-family: 'Tapestry', cursive;
+
+}
+
+.hover:hover {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+
+}
+
+.img {
+    text-align: center;
+
+}
+
+.text {
+    text-align: right;
+}
+
+.circle {
+    border-radius: 50%;
+    color: black;
+
+}
+
+.space li {
+
+    padding-right: 30px;
+
+}
+
+li {
+    float: left;
+
+}
+
+.hover2:hover:not(.blue) {
+    background-color: #8000ff;
+    font-size: 15px;
+}
+
+.hover2 {
+    margin-top: 4px;
+    font-size: 15px;
+    padding-top: 4px;
+
+}
+
+.blue {
+    background-color: #00aeff;
+    padding-top: 2px;
+
+}
+
+.bold {
+    font-family: 'IBM Plex Sans Arabi';
+    font-size: large;
+
+}
+
+.right {
+
+    padding-left: 3px;
+    font-size: 15px;
+    text-align: center;
+
+
+}
+
+
+.height {
+    height: 200px;
+    text-align: center;
+
+}
+
+.font {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+hr {
+    height: 50px;
+}
+
+.underline {
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px blue;
+    font-family: 'calibri', cursive;
+}
+
+.center {
+    text-align: center;
+    font-size: 30px;
+}
+
+.image {
+    text-align: center;
+}
+
+
+
+.font-style {
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+
+.green {
+    border: 2px solid wheat;
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    font-size: 60px;
+    color: white;
+}
+
+.green:hover {
+    background-color: wheat;
+    color: black;
+}
+
+body {
+    background: linear-gradient(-100deg, #f42e78, #c17afc, #fec180, #ff8993);
+}
+
+.hover6 {
+    margin-right: 300px;
+    color: white;
+
+}
+
+.not {
+    margin-left: 20px;
+}

@@ -1,0 +1,24 @@
+.carousel-inner {
+    width: 1280px;
+    height: 650px;
+    text-align: center;
+    margin-left: 8%;
+    padding-top: 30px;
+}
+
+.heading h1 {
+    padding-left: 50px;
+}
+
+.heading h3 {
+    padding-left: 50px;
+}
+
+.heading p {
+    padding-left: 50px;
+    font-size: 30px;
+}
+
+.title {
+    text-align: center;
+}

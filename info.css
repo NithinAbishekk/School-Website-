@@ -1,0 +1,126 @@
+.hover {
+    font-family: 'Tapestry', cursive;
+
+}
+
+.hover:hover {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
+
+}
+
+.left {
+    text-align: center;
+}
+
+.hover2 {
+    margin-top: 12px;
+
+}
+
+.hover2:hover:not(.black) {
+
+    background-color: #8000ff;
+}
+
+.black {
+    background-color: #00aeff;
+
+}
+
+
+.row img {
+    border-radius: 15% 15% 15% 15%;
+}
+
+.row h1 {
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+
+}
+
+.row p {
+
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-left: 55px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.font-style {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.green {
+    border: 2px solid #ffba08;
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    font-size: 50px;
+}
+
+.green:hover {
+    background-color: #ffba08;
+    color: white;
+    background: linear-gradient(-100deg, #f42e78, #c17afc, #fec180, #ff8993);
+}
+
+.space li {
+
+    padding-right: 30px;
+
+}
+
+.right {
+
+    font-size: 17px;
+    margin-top: 6px;
+
+}
+
+.name {
+    margin-right: 20px;
+}
+
+.underline2 {
+    text-decoration: underline;
+}
+
+.underline2:hover {
+    text-shadow: 2px 2px 10px red;
+}
+
+body {
+    background: linear-gradient(-100deg, #7400b8, #6930c3, #5e60ce, #5390d9, #4ea8de, #56cfe1, #72efdd, #80ffdb);
+}
+
+.hover6 {
+    margin-right: 60px;
+}
+
+.not {
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.siva {
+    margin-right: 3px;
+}
+
+.info {
+    margin-right: 45px;
+}
+
+nav li {
+    margin-bottom: 10px;
+}
